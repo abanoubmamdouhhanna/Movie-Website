@@ -1,0 +1,9 @@
+.offline
+{
+    text-align: center;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 9;
+    width:20%;
+}

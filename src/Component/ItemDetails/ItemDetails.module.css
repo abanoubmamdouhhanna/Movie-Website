@@ -1,0 +1,13 @@
+
+.ul li
+{
+    padding: 15px;
+}
+.badge
+{
+    padding: 10px;
+    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #0d6efd;
+}

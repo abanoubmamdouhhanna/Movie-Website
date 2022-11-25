@@ -1,0 +1,41 @@
+.overlay
+{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    background-color: #131722;
+    opacity: 0.9;
+    transition: all 0.7s;
+    z-index: 1;
+    overflow: hidden;
+    color: #949cb0;
+}
+.item:hover .overlay
+{
+    top: 0;
+}
+img
+{
+    transition: all 0.7s;
+
+}
+.item:hover img{
+    transform: scale(1.2);
+}
+.vote
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #24baef;
+    border-top-right-radius: 0% !important;
+    border-bottom-right-radius: 0% !important;
+    border-top-left-radius: 0% !important;
+
+
+}
