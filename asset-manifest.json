@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Movie-Website/static/css/main.6182b76a.css",
+    "main.js": "/Movie-Website/static/js/main.54e52aa1.js",
+    "static/js/787.d108c003.chunk.js": "/Movie-Website/static/js/787.d108c003.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Movie-Website/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/Movie-Website/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/Movie-Website/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/Movie-Website/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/Movie-Website/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/avatar.png": "/Movie-Website/static/media/avatar.8f76b1e3d198ed679123.png",
+    "static/media/fa-regular-400.woff2": "/Movie-Website/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Movie-Website/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movie-Website/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/Movie-Website/index.html",
+    "main.6182b76a.css.map": "/Movie-Website/static/css/main.6182b76a.css.map",
+    "main.54e52aa1.js.map": "/Movie-Website/static/js/main.54e52aa1.js.map",
+    "787.d108c003.chunk.js.map": "/Movie-Website/static/js/787.d108c003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6182b76a.css",
+    "static/js/main.54e52aa1.js"
+  ]
+}
