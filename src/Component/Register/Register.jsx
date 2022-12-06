@@ -30,7 +30,7 @@ export default function Register() {
 //=========== send data to API ===============
    async function sendRegisterDataToApi()
    {
-   let {data}=await axios.post(`https://route-egypt-api.herokuapp.com/signup` ,user);
+   let {data}=await axios.post(`https://route-movies-api.vercel.app/signup` ,user);
         if (data.message =='success')
         {
             setIsLoading(false);
